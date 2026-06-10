@@ -1,4 +1,4 @@
-# 
+# Avançado Dify plugins. Com computação de borda e análise de documentos — otimizado para máximo desempenho e eficiência.
 
 
 
